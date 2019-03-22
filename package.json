@@ -21,6 +21,7 @@
   "dependencies": {
     "express": "^4.15.0",
     "mocha": "^5.2.0",
-    "mysql": "^2.13.0"
+    "mysql": "^2.13.0",
+    "react-router-dom": "^5.0.0"
   }
 }
